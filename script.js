@@ -1,4 +1,5 @@
 const API_KEY = 'nbqUY5ARP9z1QnlcnhNTFd6zDACBkvzE';
+
 $(document).ready(function () {
   const temas = ['Futbol', 'Formula 1', 'Anime', 'Animals', 'Piano'];
   const divTemasButtons = document.getElementById('animal-buttons');
